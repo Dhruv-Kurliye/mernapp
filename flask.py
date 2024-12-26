@@ -5,7 +5,7 @@ app = Flask(__name__)
 @app.route('/')
 
 def hello():
-	return "MERN Hu Mein!"
+	return "Welcome to Kubernetes"
 
 
 if __name__=='__main__':
